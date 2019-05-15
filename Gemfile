@@ -10,7 +10,7 @@ gem 'bcrypt'
 gem 'mongoid'
 gem 'rb-readline'
 gem 'mongoid_token'
-gem 'sigaedu_api', path: '../sigaedu_api'
+gem 'sigaedu_api', github: 'luizpicolo/sigaedu_api'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
