@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/luizpicolo/sigaedu_api.git
-  revision: fbea3839e4ba336d0578effbff7b7c484ca31cc3
+  revision: 05e497807cccc62c71b82ebc50409e6e215c3bec
   specs:
-    sigaedu_api (0.1.0)
+    sigaedu_api (1.0.2)
       json (~> 2.1)
       mechanize (~> 2.7)
 
@@ -63,7 +63,7 @@ GEM
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
     erubi (1.8.0)
-    ffi (1.10.0)
+    ffi (1.11.0)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     http-cookie (1.0.3)
