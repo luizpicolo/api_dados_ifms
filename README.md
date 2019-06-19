@@ -1,24 +1,9 @@
-# README
+# API Dados IFMS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este APP tem como objetivo gerar uma API para dados do IFMS.
+Para sua execução são utilizadas duas gems:
 
-Things you may want to cover:
+ - sigaedu_api (https://github.com/luizpicolo/sigaedu_api)
+ - suap_api (https://github.com/luizpicolo/suap_api)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Uma observação torna-se importante. Mesmo este código sendo público, os dados gerados pela API são privados e utilizados apenas, e tão somente, para aplicações internas. Portanto, tanto as gems quanto esta aplicação foram feitas de forma específica.
