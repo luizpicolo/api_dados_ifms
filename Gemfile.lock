@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/luizpicolo/sigaedu_api.git
-  revision: 8ebea241a540d935d031f8820ee70e56ea8081ab
+  revision: d6683df782e96095383ddc1a72a056d44c4ad279
   specs:
     sigaedu_api (1.2.0)
       json (~> 2.1)
