@@ -1,5 +1,3 @@
-require 'sigaedu_api'
-
 class CoursesController < ApplicationController
   def index
     user = User.find(params[:token])
