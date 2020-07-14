@@ -63,7 +63,6 @@ GEM
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     erubi (1.9.0)
-    etc (1.1.0)
     ffi (1.12.2)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
@@ -117,8 +116,7 @@ GEM
     nokogiri (1.10.9)
       mini_portile2 (~> 2.4.0)
     ntlm-http (0.1.1)
-    passenger (6.0.5)
-      etc
+    passenger (6.0.6)
       rack
       rake (>= 0.8.1)
     puma (4.3.5)
